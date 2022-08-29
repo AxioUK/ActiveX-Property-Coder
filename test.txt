@@ -1,0 +1,5 @@
+1,BackColor,OLE_COLOR,xBColor,312414
+2,Caption,String,xCap,Hello World
+3,CaptionColor,OLE_COLOR,xCapColor,323412
+4,Picture,StdPicture,xPic,Nothing
+5,Fade,Boolean,xFade,False
